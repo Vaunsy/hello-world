@@ -6,3 +6,4 @@ this shit makes me feel dumb haha
 oh yea  am figuring this out legit!
 <p> remembering html </p>
 <img> https://s-media-cache-ak0.pinimg.com/736x/cd/cb/d2/cdcbd2c7375a4ca4d14d0a9ddc61d3bd.jpg</img>
+<img>english-bulldog 2.jpg</img>
